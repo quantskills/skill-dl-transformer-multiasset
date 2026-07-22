@@ -1,0 +1,14 @@
+{
+  "name": "skill-dl-transformer-multiasset",
+  "description": "Transformer multi-asset commodity-futures factor predicting next-5-day cross-sectional returns via PatchTST or iTransformer.",
+  "license": "GPL-3.0-only",
+  "tags": ["quant", "alpha", "futures", "deep-learning", "transformer"],
+  "metadata": {
+    "organization": "QuantSkills",
+    "organization_url": "https://github.com/quantskills",
+    "repository": "skill-dl-transformer-multiasset",
+    "repository_url": "https://github.com/quantskills/skill-dl-transformer-multiasset",
+    "project_type": "skill",
+    "collection": "dl-alpha"
+  }
+}

@@ -1,0 +1,21 @@
+# Cursor Rule: skill-dl-transformer-multiasset
+
+Use this repository as a QuantSkills skill named `skill-dl-transformer-multiasset`.
+
+Read `SKILL.md` first. For research and training, follow `dl-transformer-multiasset/SKILL.md`. For read-only production factor queries, follow `dl-transformer-multiasset-production/SKILL.md`.
+
+This material is research tooling only. Do not present outputs as investment advice, return promises, or official endorsement. Do not record or transmit Panda data credentials.
+
+## Constants
+
+- `FACTOR_ID = "DLTX"`
+- `FACTOR_NAME = "Transformer多资产联合建模"`
+- `DATA_VERSION = "real-v1"`
+
+## Naming
+
+Use lowercase with hyphens for directory and file names.
+
+## Data Source
+
+Use panda-data SDK exclusively.
