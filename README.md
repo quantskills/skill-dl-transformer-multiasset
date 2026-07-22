@@ -136,12 +136,6 @@ print(top10[['symbol', 'factor_value', 'score', 'rank']])
 
 ## 常见问题
 
-### Q: 电脑运行训练时很烫怎么办？
-A: 当前已经使用轻量化参数。如果还是太热，可以进一步减少：
-- BATCH_SIZE: 32 → 16
-- D_MODEL: 64 → 32
-- N_LAYERS: 2 → 1
-
 ### Q: 如何更新因子数据？
 A: 重新运行步骤3和4：
 ```bash
