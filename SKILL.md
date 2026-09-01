@@ -1,3 +1,8 @@
+---
+name: dl-transformer-multiasset
+description: Research and evaluate multi-asset commodity-futures return factors using PatchTST or iTransformer. Use for research, training, and read-only factor queries; do not place trades or present results as investment advice.
+---
+
 # QuantSkills Entry
 
 **Name**: skill-dl-transformer-multiasset
