@@ -180,3 +180,6 @@ GPL-3.0-only
 2. 接入实盘交易系统
 3. 与其他因子进行组合优化
 4. 定期重新训练模型（建议每季度一次）
+
+
+Pandadata 兼容维护：[abgyjaguo](https://github.com/abgyjaguo)，保留原项目作者署名。

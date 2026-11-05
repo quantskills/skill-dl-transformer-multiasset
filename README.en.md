@@ -44,3 +44,6 @@ GPL-3.0-only
 ## Boundaries
 
 This repository contains research and engineering materials. **It does not constitute investment advice, does not promise returns, and does not represent official endorsement by QuantSkills / Panda data / Codex / Claude Code / Cursor / Hermes / OpenClaw.** Do not record or commit Panda data credentials.
+
+
+Pandadata compatibility maintenance: [abgyjaguo](https://github.com/abgyjaguo). Existing authorship is retained.
